@@ -10,6 +10,10 @@ class Translator:
         # 4. Exit
         pass
 
+    def loadDictionary(self, dict):
+        # dict is a string with the filename of the dictionary
+        pass
+
     def handleAdd(self, entry):
         # entry is a tuple <parola_aliena> <traduzione1 traduzione2 ...>
         pass

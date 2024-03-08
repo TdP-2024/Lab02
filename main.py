@@ -7,6 +7,8 @@ while(True):
 
     t.printMenu()
 
+    t.loadDictionary("filename.txt")
+
     txtIn = input()
 
     # Add input control here!
