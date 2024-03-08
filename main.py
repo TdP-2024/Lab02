@@ -12,6 +12,8 @@ while(True):
     # Add input control here!
 
     if int(txtIn) == 1:
+        print()
+        txtIn = input()
         pass
     if int(txtIn) == 2:
         pass
